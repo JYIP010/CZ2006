@@ -1,0 +1,1 @@
+This directory contains the source code for the SG!Recycle Mobile Application.
